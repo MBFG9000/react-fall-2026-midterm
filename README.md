@@ -2,7 +2,7 @@
 
 A single page app for browsing and managing a personal book collection. Midterm project for the React course.
 
-**Live demo:** _add your deployed link here_
+**Live demo:** https://mbfg9000.github.io/react-fall-2026-midterm/
 
 ## Features
 
